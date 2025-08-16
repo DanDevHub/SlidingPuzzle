@@ -8,7 +8,7 @@ The game we built was an escape-room like puzzle game, in which the player is ta
 The platform for which this game was made was the oculus rift devices
 
 ## Visuals
-![alt text](README/hamster.PNG)
+<img width="1641" height="893" alt="Image" src="https://github.com/user-attachments/assets/d1b853bb-2abf-4365-99f6-262f0abb9f5d" />
 ● Hamster character, which acts as main guide throughout game <br/>
 ● Will explain where to go next, how to get there and what to do when the player reaches that spot <br/>
 
