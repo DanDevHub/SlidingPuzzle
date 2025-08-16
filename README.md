@@ -12,13 +12,13 @@ The platform for which this game was made was the oculus rift devices
 ● Hamster character, which acts as main guide throughout game <br/>
 ● Will explain where to go next, how to get there and what to do when the player reaches that spot <br/>
 
-![alt text](README/ants.PNG)
+<img width="1591" height="895" alt="Image" src="https://github.com/user-attachments/assets/c20082f4-fd1a-4c13-ba47-317bdbd315b8" />
 ● Ants act as a "way point", showing a path to the next point of interest <br/>
 
-![alt text](README/minimap.PNG)
+<img width="1582" height="890" alt="Image" src="https://github.com/user-attachments/assets/54e93f38-89e6-4013-80b7-bd2749ea27d5" />
 ● Pressing the menu button on the controller opens a minimap, which shows a miniature version of the map for extra guidance and a reset button to reset the camera to the correct height, if the player should need so <br/>
 
-![alt text](README/sliding_puzzle.PNG)
+<img width="1587" height="893" alt="Image" src="https://github.com/user-attachments/assets/b8736a2c-ca83-42a6-bf4f-5fcf4feae14d" />
 ● One of the featured puzzles <br/>
 ● Sliding puzzle in which the player is tasked with pushing and pulling physics objects to open path for the blue rectangle <br/>
 
