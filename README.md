@@ -1,4 +1,4 @@
-# Navigation Miracle
+# Navigation Miracle (2025)
 
 ## Description
 This is a VR-Game. The goal of the project was to build a VR game and to use that game as a basis to find out what difficulties come with navigation and interaction in a VR environment (e.g. Motion sickness when moving, how to show player correct path without traditional methods like HUD), and how those problems can be solved for a VR-Space.
